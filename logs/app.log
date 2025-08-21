@@ -1,0 +1,2 @@
+{"level":"error","message":"Mongo connection error: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2025-08-21T18:37:40.196Z"}
+{"level":"error","message":"Mongo connection error: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-08-21T18:39:08.225Z"}
